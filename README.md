@@ -1,4 +1,5 @@
-### Hi there 👋
+Hola!! My name is Shreya Maurya 👋
+I am currently learning C++ and interested in Web Development.
 
 <!--
 **shreyamaurya029/shreyamaurya029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
