@@ -2,6 +2,7 @@
 - 🌱 I'm a Computer Science fresher.<br />
 - 🤓 I'm currently learning C++ and Web Development.<br />
 - 😄 Pronouns: She/her
+- https://github.com/shreyamaurya029/gif
 
 <!--
 **shreyamaurya029/shreyamaurya029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
