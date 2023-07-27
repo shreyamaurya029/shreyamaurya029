@@ -1,13 +1,5 @@
 ![ Front-End Developer | Web Enthusiast | CSE undergrad at NIT Silchar](https://github.com/shreyamaurya029/shreyamaurya029/blob/main/assets/banner/I'm%20Shreya%20Maurya.gif)
 
-
-
-
-
-
-
-
-
 <h2 align="center">
     Hi There, I'm Shreya Maurya!
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
@@ -19,7 +11,7 @@
 ### Web Developer | CSE undergrad at NIT Silchar
 
 
-I love working on front-end web development and regularly practice data structures and algorithms. I enjoy contributing to open-source projects
+I love working on front-end web development and regularly practicing data structures and algorithms. I enjoy contributing to open-source projects
 
 
 -------
@@ -58,24 +50,18 @@ I love working on front-end web development and regularly practice data structur
 
 
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JyotimoyKashyap&show_icons=true&count_private=true&theme=tokyonight)   -->
+
 
 -------
 
 
 
-
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JyotimoyKashyap&theme=github)   -->
-
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JyotimoyKashyap&theme=dark)  -->
-
-
-
-
 ### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shreyamaurya029&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shreyamaurya029&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=shreyamaurya029&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shreyamaurya029&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamaurya029&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---------
 
 ### 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
