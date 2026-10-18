@@ -17,11 +17,11 @@ I love working on front-end web development and regularly practicing data struct
 -------
 
 ### Some Updates :
-- 🔭 I’m currently working on front-end projects 
-- 🌱 I’m currently learning backend development 
-- 👯 I’m looking to collaborate on open source web-dev projects  
-- 🤔 I’m looking for help with full stack MERN projects 
-- 💬 Ask me about Frontend Development
+- 🔭 I’m currently building scalable web applications at Intuit
+- 🌱 I’m currently learning AI and exploring AI-powered applications
+- 👯 I’m looking to collaborate on open-source projects in web development and AI
+- 🤝 I’m interested in building impactful full-stack and AI-driven solutions
+
 
 -------
 
